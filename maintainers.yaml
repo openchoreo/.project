@@ -1,0 +1,34 @@
+# Maintainer roster for OpenChoreo
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "openchoreo"
+    org: "openchoreo"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - sameerajayasoma
+          - lakwarus
+          - binura-g
+          - tishan89
+          - Mirage20
+          - akila-i
+          - binoyPeries
+          - chalindukodikara
+          - ChathurangaKCD
+          - chathuranga95
+          - isala404
+          - JanakaSandaruwan
+          - kavishkafernando
+          - kaviththiranga
+          - Ketharan
+          - NomadXD
+          - LakshanSS
+          - mevan-karu
+          - nilushancosta
+          - rashadism
+          - stefinie123
+          - VajiraPrabuddhaka
+          - yashodgayashan
