@@ -24,7 +24,7 @@ repositories:
 
 website: "https://openchoreo.dev"
 
-artwork: "https://landscape.cncf.io/logos/openchoreo.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/openchoreo"
 
 adopters:
   path: "https://github.com/openchoreo/openchoreo/blob/main/ADOPTERS.md"
